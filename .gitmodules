@@ -1,3 +1,6 @@
-[submodule "eterniasoft"]
-	path = eterniasoft
+[submodule "static/eternia"]
+	path = static/eternia
 	url = https://github.com/eterniasoft/documentation.git
+[submodule "static/juego"]
+	path = static/juego
+	url = https://github.com/Videmor/Juego-de-Naves.git
