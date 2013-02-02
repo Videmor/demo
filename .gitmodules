@@ -1,0 +1,3 @@
+[submodule "eterniasoft"]
+	path = eterniasoft
+	url = https://github.com/eterniasoft/documentation.git
